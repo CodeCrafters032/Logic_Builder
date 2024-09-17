@@ -97,3 +97,5 @@
 ### 44. [Print a number 100 times without using loop, recursion and macro expansion in C](https://www.geeksforgeeks.org/print-number-100-times-without-using-loop-recursion-macro-expansion-c/) From "geeksforgeeks"
 
 
+### 44. Distinct Subsequences (https://leetcode.com/problems/distinct-subsequences/)
+
